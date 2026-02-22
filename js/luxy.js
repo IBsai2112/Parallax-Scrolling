@@ -1,13 +1,3 @@
-/**
- * Written by Mineo Okuda on 01/03/18.
- *
- * Mineo Okuda - development + design
- * https://willstyle.co.jp
- * https://github.com/min30327
- *
- * MIT license.
- */
-
 (function(root, factory) {
 	'use strict';
 
