@@ -30,14 +30,18 @@ This project demonstrates smooth scroll-based animations and layered parallax ef
 ```bash
 Parallax-Scrolling/
 │
-├── public/
-├── src/
-│ ├── components/
-│ ├── sections/
-│ ├── assets/
-│ └── App.jsx
+├── Images/
+├── js/
+│ ├── js.js/
+│ ├── luxy.js/
+│ └── splitting.min.js
 │
-├── package.json
+├── style/
+│ ├── normalize.css/
+│ └── style.css
+│
+├── Index.html
+├── package-lock.json
 └── README.md
 ```
 ---
