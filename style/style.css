@@ -251,6 +251,12 @@ section {
 	width: calc(50% - 60px);
 	height: 100vh;
 }
+.work__item2 {
+	position: relative;
+	padding: 7% 10% 0% 10%;
+	/* width: calc(50% - 60px); */
+	height: 100vh;
+}
 
 .work__item-num {
 	position: absolute;
